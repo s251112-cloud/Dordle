@@ -33,7 +33,7 @@ A dual-grid web application built with pure HTML5, CSS3, and modern vanilla Java
 ## 👥 Collaborator
 
 Co-created by:
-- **Celine**
+- **Celine0921**
 
 ---
 
