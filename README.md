@@ -30,11 +30,10 @@ A dual-grid web application built with pure HTML5, CSS3, and modern vanilla Java
 
 ---
 
-## 👥 Collaborators
+## 👥 Collaborator
 
 Co-created by:
 - **Celine**
-- **Marco**
 
 ---
 
